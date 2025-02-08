@@ -1,0 +1,23 @@
+---
+title: <Job Advert Title (required)>
+company: <None (required)>
+url: http://<Link to your site/a job spec (optional)>
+location: <where is the job based? e.g. London,England>
+# Choose one of the following options
+contract: permanent / contract / part-time / temporary x
+contact:55+ 14 997813063
+    name: <Antoni Emanuel Teixeira dos Santos (required)>
+    email: <antonikld251@gmail.com (required)>
+    phone:55+ 14 997813063 <(optional)>
+    <additional contact fields>: <additional value>
+created: !!timestamp '2025-02-08' # Update this with today's date
+tags:
+  - python
+  - sql
+  - django 
+  # include relevant tags
+---
+
+# Lines like this, which begin with # are headings
+
+Full job description here, in Markdown forma
